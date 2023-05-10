@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnDohyunKim
-- 🌱 I’m currently learning: Computer Science at Boston University (3rd Year)
+- 🌱 I’m currently learning: Computer Science at Boston University (Graduating May 2024)
 - 📫 How to reach me:
 - Phone: 201-620-4020
 - Email: johndh128@gmail.com
